@@ -2,6 +2,9 @@ package com.entities;
 
 import java.io.Serializable;
 
+/**
+ * 公共类
+ */
 public class BaseEntity implements Serializable{
 
 	private static final long serialVersionUID = -6303546708813719329L;
