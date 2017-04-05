@@ -6,7 +6,7 @@ public class UserController {
 	}
 	
 	public String addUI(){
-		System.out.println("test");
+		System.out.println("addUI");
 		return "addUI";
 	}
 	
@@ -23,6 +23,7 @@ public class UserController {
 	}
 	
 	public String del(){
-		return "";
+		System.out.println("del");
+		return "del";
 	}
 }
