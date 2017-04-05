@@ -20,4 +20,8 @@ public class UserController {
 	public String edit(){
 		return "edit";
 	}
+	
+	public String del(){
+		return "";
+	}
 }
