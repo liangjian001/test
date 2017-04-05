@@ -6,6 +6,7 @@ public class UserController {
 	}
 	
 	public String addUI(){
+		System.out.println("test");
 		return "addUI";
 	}
 	
